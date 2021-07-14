@@ -1,0 +1,2 @@
+# django_uwsgi_docker_example
+django 使用docker-composer发布，遇到很多问题，这个是最终可以跑起来的版本，可以作为模板或者借鉴
