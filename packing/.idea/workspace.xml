@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20a3ae32-f5cd-4c1a-a41a-1d04f383c9b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vHrKG0fExhXRKrh30apbRzvqJu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="packing" type="Python.DjangoServer" factoryName="Django server">
+      <module name="packing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a3ae32-f5cd-4c1a-a41a-1d04f383c9b2" name="Default Changelist" comment="" />
+      <created>1626229789180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626229789180</updated>
+      <workItem from="1626229790251" duration="138000" />
+      <workItem from="1626229989516" duration="182000" />
+      <workItem from="1626230201161" duration="559000" />
+      <workItem from="1626230867132" duration="444000" />
+      <workItem from="1626231321854" duration="1320000" />
+      <workItem from="1626245702608" duration="87000" />
+      <workItem from="1626248482880" duration="854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="304" key="#Docker2" timestamp="1626231178974">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="752" y="304" key="#Docker2/0.23.1792.1097@0.23.1792.1097" timestamp="1626231178974" />
+    <state x="505" y="415" key="#Inspections" timestamp="1626231031328">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="505" y="415" key="#Inspections/0.23.1792.1097@0.23.1792.1097" timestamp="1626231031328" />
+    <state x="663" y="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626230723377">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="663" y="396" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1626230723377" />
+    <state x="843" y="439" key="DockerComposeFileDialog" timestamp="1626231192035">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="843" y="439" key="DockerComposeFileDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1626231192035" />
+    <state x="772" y="339" key="FileChooserDialogImpl" timestamp="1626231169583">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="772" y="339" key="FileChooserDialogImpl/0.23.1792.1097@0.23.1792.1097" timestamp="1626231169583" />
+    <state x="406" y="187" key="SettingsEditor" timestamp="1626231218044">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="406" y="187" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1626231218044" />
+  </component>
+</project>
