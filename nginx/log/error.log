@@ -1,0 +1,308 @@
+2021/06/05 03:38:40 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:38:40 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:38:42 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:38:42 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:39:03 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:39:03 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:39:07 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:39:07 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:39:32 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:39:32 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:40:07 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:40:07 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:40:09 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:40:09 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:40:37 [error] 23#23: *328 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:40:37 [error] 23#23: *328 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:43:08 [error] 23#23: *344 upstream prematurely closed connection while reading response header from upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/05 03:43:08 [error] 23#23: *344 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /webhook_pull/ HTTP/1.1", upstream: "uwsgi://172.22.0.2:8000", host: "code4ios.hehuoya.com"
+2021/06/24 05:53:47 [error] 23#23: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET / HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:53:47 [error] 23#23: *4 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET / HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:53:47 [error] 23#23: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost", referrer: "http://localhost/"
+2021/06/24 05:53:47 [error] 23#23: *4 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost", referrer: "http://localhost/"
+2021/06/24 05:54:41 [error] 23#23: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.1.2/770.1624503666_resign HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:54:41 [error] 23#23: *7 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.1.2/770.1624503666_resign HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:54:41 [error] 23#23: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost", referrer: "http://localhost/app/ZiroomProject/7.1.2/770.1624503666_resign"
+2021/06/24 05:54:41 [error] 23#23: *9 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost", referrer: "http://localhost/app/ZiroomProject/7.1.2/770.1624503666_resign"
+2021/06/24 05:54:52 [error] 23#23: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.1.2/770.1624503666_resign HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:54:52 [error] 23#23: *7 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.1.2/770.1624503666_resign HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:54:57 [error] 23#23: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:54:57 [error] 23#23: *7 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost"
+2021/06/24 05:54:57 [error] 23#23: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost", referrer: "http://localhost/app"
+2021/06/24 05:54:57 [error] 23#23: *9 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.4:8000", host: "localhost", referrer: "http://localhost/app"
+2021/07/01 02:18:24 [error] 23#23: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.0.6/1625105125 HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/01 02:18:24 [error] 23#23: *10 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.0.6/1625105125 HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/01 02:18:24 [error] 23#23: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost", referrer: "http://localhost/app/ZiroomProject/7.0.6/1625105125"
+2021/07/01 02:18:24 [error] 23#23: *10 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost", referrer: "http://localhost/app/ZiroomProject/7.0.6/1625105125"
+2021/07/01 02:18:30 [error] 23#23: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/ HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/01 02:18:30 [error] 23#23: *10 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/ HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/01 02:18:59 [error] 23#23: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.1.2/679.1617767787 HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/01 02:18:59 [error] 23#23: *10 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET /app/ZiroomProject/7.1.2/679.1617767787 HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/06 07:42:44 [error] 23#23: *59 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET / HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/06 07:42:44 [error] 23#23: *59 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.22.0.1, server: code4ios.hehuoya.com, request: "GET / HTTP/1.1", upstream: "uwsgi://172.22.0.3:8000", host: "localhost"
+2021/07/14 02:46:21 [error] 23#23: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET / HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 02:46:21 [error] 23#23: *2 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET / HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 02:46:21 [error] 23#23: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2021/07/14 02:46:21 [error] 23#23: *2 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2021/07/14 02:46:25 [error] 23#23: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /app HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 02:46:25 [error] 23#23: *2 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /app HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 02:46:28 [error] 23#23: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /admin HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 02:46:28 [error] 23#23: *2 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /admin HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 02:46:38 [error] 23#23: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /admin/ HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 02:46:38 [error] 23#23: *2 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.18.0.1, server: code4ios.hehuoya.com, request: "GET /admin/ HTTP/1.1", upstream: "uwsgi://172.18.0.2:8000", host: "127.0.0.1"
+2021/07/14 03:00:34 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:00:34 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:00:45 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:00:46 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:00:52 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:00:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:01:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:01:09 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:01:16 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:01:35 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:02:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:02:52 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:03:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:04:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:05:54 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:06:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:08:05 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:10 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:21 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:31 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:32 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:38 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:39 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:50 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:51 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:51 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:55 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:09:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:09 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:10 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:15 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:21 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:23 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:27 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:34 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:45 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:10:55 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:02 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:13 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:19 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:20 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:23 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:26 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:33 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:44 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:11:54 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:04 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:05 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:15 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:16 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:22 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:28 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:39 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:49 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:12:55 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:17 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:19 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:21 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:29 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:35 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:13:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:14:19 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:15:16 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:16:16 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:17:22 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:18:23 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:18:33 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:18:44 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:18:45 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:18:46 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:18:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:18:55 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:19:03 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:19:10 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:19:28 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:20:00 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:20:51 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:21:52 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:22:57 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:08 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:19 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:30 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:47 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:54 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:23:56 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:03 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:07 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:18 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:29 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:34 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:37 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:48 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:24:49 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:00 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:06 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:17 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:29 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:30 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:37 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:44 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:25:57 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:26:09 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:26:23 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:26:49 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:27:40 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:28:45 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:29:51 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:30:55 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:06 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:22 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:24 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:30 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:41 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:46 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:47 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:48 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:55 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:31:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:32:11 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:32:25 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:32:35 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:32:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:32:37 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:32:48 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:32:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:00 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:06 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:07 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:15 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:19 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:26 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:37 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:38 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:40 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:42 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:46 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:33:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:06 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:17 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:23 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:24 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:26 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:33 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:44 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:34:54 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:05 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:06 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:14 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:16 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:20 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:27 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:35:45 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:36:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:23 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:24 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:35 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:37 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:48 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:49 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:50 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:55 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:37:57 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:38:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:38:17 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:38:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:39:02 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:39:58 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:40:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:42:04 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:43:09 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:44:10 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:45:10 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:46:11 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:47:11 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:22 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:33 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:33 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:38 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:45 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:47 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:57 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:58 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:48:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:09 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:20 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:21 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:25 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:47 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:47 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:49:58 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:08 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:09 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:10 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:16 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:23 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:34 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:40 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:50:50 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:13 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:15 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:17 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:20 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:27 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:41 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:51 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:57 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:58 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:51:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:01 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:12 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:13 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:19 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:29 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:35 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:41 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:42 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:50 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:52:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:53:00 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:53:17 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:53:47 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:53:58 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:04 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:05 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:15 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:26 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:36 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:42 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:43 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:53 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 03:54:59 [emerg] 1#1: host not found in upstream "packing_django" in /etc/nginx/conf.d/uwsgi.conf:23
+2021/07/14 06:43:27 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://172.25.0.2:8000", host: "localhost"
+2021/07/14 06:43:27 [error] 24#24: *1 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.25.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "uwsgi://172.25.0.2:8000", host: "localhost"
+2021/07/14 06:43:27 [error] 24#24: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.25.0.2:8000", host: "localhost", referrer: "http://localhost/"
+2021/07/14 06:43:27 [error] 24#24: *1 open() "/var/www/html/50x.html" failed (2: No such file or directory), client: 172.25.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "uwsgi://172.25.0.2:8000", host: "localhost", referrer: "http://localhost/"
