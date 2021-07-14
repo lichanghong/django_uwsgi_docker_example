@@ -10,4 +10,4 @@ COPY . /var/www/html/packing
 
 RUN pip3 install -i https://pypi.douban.com/simple/ -r requirements.txt
 
-ENTRYPOINT ["sh","/var/www/html/packing/start.sh"] 
+ENTRYPOINT ["sh","/var/www/html/packing/start.sh"]
